@@ -1,4 +1,4 @@
-# MysterySolver: Neural Network Architecture Research
+# SolverBench: Neural Network Architecture Research
 
 This is a research project on comparing different Neural Network architectures to evaluate the effect of various architectural decisions on the model's performance on a classification problem (205 input features, 5 target classes).  
 
